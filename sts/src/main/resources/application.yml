@@ -1,0 +1,10 @@
+server:
+  port: 8001
+security:
+  user:
+    password: 111111
+    name: user
+spring:
+  thymeleaf:
+    cache: false
+    mode: HTML5
